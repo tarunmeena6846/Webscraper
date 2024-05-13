@@ -46,7 +46,3 @@ The structured data for each YC company is stored in the `out/scraped.json` file
 # Evaluation
 
 The scraper outputs a properly structured JSON file at `out/scraped.json`. It handles various YC company pages and extracts relevant information accurately.
-
-```
-
-```
