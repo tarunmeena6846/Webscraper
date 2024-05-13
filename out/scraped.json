@@ -1,0 +1,1662 @@
+{
+  "count": 50,
+  "desc": false,
+  "items": [
+    {
+      "company": {
+        "name": "Fiber AI",
+        "founded": "2023",
+        "teamSize": 5,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Adi Agashe",
+            "linkedIn": "https://linkedin.com/in/adityaagashe"
+          },
+          {
+            "name": "Neel Mehta",
+            "linkedIn": "https://linkedin.com/in/neel-a-mehta"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Meet The 30 Under 30 Marketing & Advertising Class Of 2024—From AI Startups To A Chief TikTok Officer",
+            "link": "https://www.forbes.com/sites/emmylucas/2023/11/28/meet-the-30-under-30-marketing--advertising-class-of-2024-from-ai-startups-to-a-chief-tiktok-officer/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Flair Health",
+        "founded": "2023",
+        "teamSize": 5,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Diva Sharma",
+            "linkedIn": "https://linkedin.com/in/diva-sharma"
+          },
+          {
+            "name": "Shobha Dasari",
+            "linkedIn": "https://linkedin.com/in/shobha-dasari"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Nanograb",
+        "founded": "2023",
+        "teamSize": 3,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Debesh Mandal",
+            "linkedIn": "https://linkedin.com/in/debeshmandal"
+          },
+          {
+            "name": "Christopher Lau",
+            "linkedIn": "https://linkedin.com/in/christopher-lau-542798151"
+          },
+          {
+            "name": "Shanil Panara",
+            "linkedIn": "https://linkedin.com/in/shanilpanara"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Langdock",
+        "founded": "2023",
+        "teamSize": 7,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Lennard Schmidt",
+            "linkedIn": "https://linkedin.com/in/lennardschmidt"
+          },
+          {
+            "name": "Jonas Beisswenger",
+            "linkedIn": "https://linkedin.com/in/jonasbeisswenger"
+          },
+          {
+            "name": "Tobias Kemkes",
+            "linkedIn": "https://linkedin.com/in/tobiaskemkes"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Full Stack Engineer",
+            "locations": [
+              "Berlin, BE, DE"
+            ],
+            "compensation": "€70K - €90K EUR",
+            "equity": "0.10% - 0.50%",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Langdock raises $3M with General Catalyst to help companies avoid vendor lock-in with LLMs | TechCrunch",
+            "link": "https://techcrunch.com/2024/04/19/langdock/amp/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "VectorShift",
+        "founded": "2023",
+        "teamSize": 8,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Alexander Leonardi",
+            "linkedIn": "https://linkedin.com/in/alexanderleonardi"
+          },
+          {
+            "name": "Albert Mao",
+            "linkedIn": "https://linkedin.com/in/albert-mao-8b263aa2"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "AI / ML Engineer",
+            "locations": [
+              "New York, NY, US"
+            ],
+            "compensation": "$100K - $160K",
+            "equity": "0.20% - 0.50%",
+            "experience": "Any (new grads ok)"
+          },
+          {
+            "role": "Backend Engineer",
+            "locations": [
+              "New York, NY, US"
+            ],
+            "compensation": "$100K - $160K",
+            "equity": "0.20% - 0.50%",
+            "experience": "Any (new grads ok)"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Exclusive: VectorShift raises $3M to modularize LLM application development | VentureBeat",
+            "link": "https://venturebeat.com/ai/exclusive-vectorshift-raises-3m-to-modularize-llm-application-development/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "VaultPay",
+        "founded": "2023",
+        "teamSize": 2,
+        "Location": "Kinshasa, Congo (Dem. Rep.)",
+        "founders": [
+          {
+            "name": "Ntambwa Basambombo",
+            "linkedIn": "https://linkedin.com/in/ntambwa-basambombo-1371b952"
+          },
+          {
+            "name": "Christel Ilaka",
+            "linkedIn": "https://www.linkedin.com/in/christelilaka/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Instaclass",
+        "founded": "2023",
+        "teamSize": 3,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Flynn Traeger",
+            "linkedIn": "https://linkedin.com/in/flynn-traeger"
+          },
+          {
+            "name": "Bryn Hughes",
+            "linkedIn": "https://linkedin.com/in/bryn-hughes-3968b7201"
+          },
+          {
+            "name": "Moe Khalil",
+            "linkedIn": "https://linkedin.com/in/moe-khalil-73a2371a1"
+          },
+          {
+            "name": "Porter Weisberg",
+            "linkedIn": "https://linkedin.com/in/porter-weisberg"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Our favorite startups from YC's Summer 2023 Demo Day, Day 1 | TechCrunch",
+            "link": "https://techcrunch.com/2023/09/06/ycombinator-demo-day-one-summer-2023/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Amplitude",
+        "founded": "2012",
+        "teamSize": 750,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Spenser Skates",
+            "linkedIn": "https://www.linkedin.com/in/spenserskates"
+          },
+          {
+            "name": "Curtis Liu",
+            "linkedIn": "https://www.linkedin.com/in/jerry-klingenberger-15027791"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Amplitude CEO: building the machine for the journey to a billion dollars",
+            "link": "https://www.thetechnologyletter.com/the-posts/amplitude-ceo-building-the-machine-for-the-journey-to-a-billion-dollars"
+          },
+          {
+            "title": "Amplitude's earnings show what you need to report to survive in today's market",
+            "link": "https://techcrunch.com/2022/11/03/amplitudes-earnings-show-what-you-need-to-report-to-survive-in-todays-market/?guccounter=1"
+          },
+          {
+            "title": "Amplitude now supports direct data-sharing with Snowflake",
+            "link": "https://venturebeat.com/data-infrastructure/amplitude-now-supports-direct-data-sharing-with-snowflake/"
+          },
+          {
+            "title": "Amplitude launches customer data platform with integrated product analytics",
+            "link": "https://siliconangle.com/2022/05/25/amplitude-launches-customer-data-platform-natively-integrated-product-analytics/"
+          },
+          {
+            "title": "Amplitude’s CEO: ‘The Product Itself Has Become The Distribution Channel’",
+            "link": "https://www.adexchanger.com/analytics/amplitudes-ceo-the-product-itself-has-become-the-distribution-channel/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Razorpay",
+        "founded": "2014",
+        "teamSize": 2700,
+        "Location": "Bengaluru, India",
+        "founders": [
+          {
+            "name": "Harshil Mathur",
+            "linkedIn": "https://www.linkedin.com/pub/harshil-mathur/69/23a/127"
+          },
+          {
+            "name": "Shashank Kumar",
+            "linkedIn": "http://www.linkedin.com/in/kumarshashank"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Engineering Manager/Sr. Engineering Manager.",
+            "locations": [
+              "Bangalore, Karnataka"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Senior / Principal Engineers",
+            "locations": [
+              "bangalore"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Senior Infrastructure Engineer",
+            "locations": [
+              "Bengaluru"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Senior/Principal Engineer/Manager, Frontend Engineering",
+            "locations": [
+              "Bangalore, Karnataka"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "et startup of the year razorpay: ET Startup Awards 2022: Razorpay wins Startup of the Year award - The Economic Times",
+            "link": "https://economictimes.indiatimes.com/tech/startups/et-startup-awards-2022-razorpay-wins-startup-of-the-year-award/articleshow/95185680.cms"
+          },
+          {
+            "title": "Razorpay Helps FinTech HostBooks Raise $3M | PYMNTS.com",
+            "link": "https://www.pymnts.com/news/investment-tracker/2022/razorpay-helps-fintech-hostbooks-raise-3m/"
+          },
+          {
+            "title": "YC-backed Indian fintech unicorn enters SEA",
+            "link": "https://www.techinasia.com/ycbacked-fintech-unicorn-razorpay-enters-sea"
+          },
+          {
+            "title": "Indian fintech giant Razorpay valued at $7.5 billion in $375 million funding – TechCrunch",
+            "link": "https://techcrunch.com/2021/12/19/indian-fintech-giant-razorpay-valued-at-7-5-billion-in-375-million-funding/"
+          },
+          {
+            "title": "India’s Razorpay launches faster checkout feature, tops $60 billion TPV – TechCrunch",
+            "link": "https://techcrunch.com/2021/12/08/india-razorpay-launches-faster-checkout-feature-tops-60-billion-tpv/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Reddit",
+        "founded": "",
+        "teamSize": 2000,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Steve Huffman",
+            "linkedIn": "https://www.linkedin.com/in/chriscampbell12"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Reddit’s I.P.O. Is a Content Moderation Success Story - The New York Times",
+            "link": "https://www.nytimes.com/2024/03/21/technology/reddit-ipo-public-content-moderation.html"
+          },
+          {
+            "title": "Reddit plans to launch IPO in March, report says | TechCrunch",
+            "link": "https://techcrunch.com/2024/01/18/reddit-plans-to-launch-ipo-in-march-report-says/"
+          },
+          {
+            "title": "Reddit’s journey to a potential $15 billion IPO | The Business of Business",
+            "link": "https://www.businessofbusiness.com/articles/reddit-15-billion-ipo-cultural-force/"
+          },
+          {
+            "title": "Reddit Files Confidentially for IPO - WSJ",
+            "link": "https://www.wsj.com/articles/reddit-files-paperwork-for-initial-public-offering-11639625013"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Untether Labs",
+        "founded": "2022",
+        "teamSize": 3,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Aditya Sharma",
+            "linkedIn": "https://linkedin.com/in/sharmaed"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Founding Engineer",
+            "locations": [
+              "Toronto, ON, CA",
+              "Remote (US; CA)"
+            ],
+            "compensation": "$65K - $190K",
+            "equity": "0.50% - 3.00%",
+            "experience": "3+ years"
+          },
+          {
+            "role": "Founding Engineer",
+            "locations": [
+              "San Francisco, CA, US",
+              "Remote (US; CA)"
+            ],
+            "compensation": "$65K - $190K",
+            "equity": "0.50% - 3.00%",
+            "experience": "3+ years"
+          },
+          {
+            "role": "Account Executive",
+            "locations": [
+              "Remote (San Francisco, CA, US; Toronto, ON, CA)"
+            ],
+            "compensation": "$90K - $180K",
+            "equity": "0.10% - 2.00%",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Dill",
+        "founded": "2022",
+        "teamSize": null,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Catherine Jiang",
+            "linkedIn": "https://www.linkedin.com/in/catherinehuijiang"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Founding SDR @ YC-backed construction software startup",
+            "locations": [
+              "US",
+              "Remote (US)"
+            ],
+            "compensation": "$60K - $120K",
+            "equity": "",
+            "experience": "Any (new grads ok)"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Dili wants to automate due diligence with AI | TechCrunch",
+            "link": "https://techcrunch.com/2024/02/19/dili-wants-to-automate-due-diligence-with-ai/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Pylon",
+        "founded": "2022",
+        "teamSize": 7,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Advith Chelikani",
+            "linkedIn": "https://www.linkedin.com/in/advith/"
+          },
+          {
+            "name": "Marty Kausas",
+            "linkedIn": "https://www.linkedin.com/in/martykausas"
+          },
+          {
+            "name": "Robert Eng",
+            "linkedIn": "https://www.linkedin.com/in/robert-eng/"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Senior Software Engineer",
+            "locations": [
+              "San Francisco, CA, US"
+            ],
+            "compensation": "$120K - $200K",
+            "equity": "0.50% - 1.00%",
+            "experience": "1+ years"
+          },
+          {
+            "role": "Founding Designer",
+            "locations": [
+              "San Francisco, CA, US"
+            ],
+            "compensation": "$140K - $200K",
+            "equity": "",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Pylon wants to make it easier to manage B2B conversations in Slack | TechCrunch",
+            "link": "https://techcrunch.com/2023/07/11/pylon-wants-to-make-it-easier-to-manage-b2b-conversations-in-slack/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Slash",
+        "founded": "2020",
+        "teamSize": 20,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Victor Cardenas",
+            "linkedIn": "https://www.linkedin.com/in/victor-d-cardenas/"
+          },
+          {
+            "name": "Kevin Bai",
+            "linkedIn": "https://www.linkedin.com/in/kevinbai0"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Software Engineer, Infrastructure",
+            "locations": [
+              "San Francisco"
+            ],
+            "compensation": "$140K - $190K",
+            "equity": "",
+            "experience": "3+ years"
+          },
+          {
+            "role": "Software Engineer",
+            "locations": [
+              "San Francisco"
+            ],
+            "compensation": "$120K - $160K",
+            "equity": "",
+            "experience": "1+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Slash aims to corner the Gen Z market with business-focused banking features | TechCrunch",
+            "link": "https://techcrunch.com/2023/05/04/slash-aims-to-corner-the-gen-z-market-with-business-focused-banking-features/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Exa",
+        "founded": "2021",
+        "teamSize": 7,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Will Bryk, CEO",
+            "linkedIn": "https://www.linkedin.com/in/william-bryk"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Generalist Engineer",
+            "locations": [
+              "San Francisco, CA"
+            ],
+            "compensation": "$120K - $180K",
+            "equity": "",
+            "experience": "Any (new grads ok)"
+          },
+          {
+            "role": "Research Scientist or Research Engineer",
+            "locations": [
+              "San Francisco, CA"
+            ],
+            "compensation": "$120K - $250K",
+            "equity": "",
+            "experience": "Any (new grads ok)"
+          },
+          {
+            "role": "Design Engineer",
+            "locations": [
+              "San Francisco, CA"
+            ],
+            "compensation": "$120K - $180K",
+            "equity": "",
+            "experience": "Any (new grads ok)"
+          }
+        ],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Supabase",
+        "founded": "2020",
+        "teamSize": 70,
+        "Location": "Singapore",
+        "founders": [
+          {
+            "name": "Paul Copplestone",
+            "linkedIn": "https://www.linkedin.com/in/paulcopplestone/"
+          },
+          {
+            "name": "Ant Wilson",
+            "linkedIn": "https://www.linkedin.com/in/anthony-wilson-46179937/"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Customer Solution Architect",
+            "locations": [
+              "Remote (US)"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Supabase raises $80M Series B for its open source Firebase alternative – TechCrunch",
+            "link": "https://techcrunch.com/2022/05/10/supabase-raises-80m-series-b-for-its-open-source-firebase-alternative/"
+          },
+          {
+            "title": "Open source backend-as-a-service startup Supabase raises $30M – TechCrunch",
+            "link": "https://techcrunch.com/2021/09/09/supabase-raises-30m-for-its-open-source-insta-backend/"
+          },
+          {
+            "title": "Supabase raises $6M for its open-source Firebase alternative – TechCrunch",
+            "link": "https://techcrunch.com/2020/12/15/supabase-raises-6m-for-its-open-source-firebase-alternative/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "RescueTime",
+        "founded": "2007",
+        "teamSize": 15,
+        "Location": "Seattle, WA",
+        "founders": [
+          {
+            "name": "Brian Fioca",
+            "linkedIn": "https://www.linkedin.com/in/brianfioca/"
+          },
+          {
+            "name": "Tony Wright, (Product & Growth)",
+            "linkedIn": "https://www.linkedin.com/in/webwright"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Lingt",
+        "founded": "",
+        "teamSize": 2,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Justin Cannon",
+            "linkedIn": ""
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Echodio",
+        "founded": "",
+        "teamSize": 2,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Niall Smart",
+            "linkedIn": "https://linkedin.com/in/niallsmart"
+          },
+          {
+            "name": "Cormac Driver",
+            "linkedIn": "https://www.linkedin.com/in/cormacdriver"
+          },
+          {
+            "name": "Vincent Glennon",
+            "linkedIn": "https://ie.linkedin.com/in/vinnyglennon"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "YumDots",
+        "founded": "",
+        "teamSize": 2,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Mark Rosetta",
+            "linkedIn": "https://linkedin.com/in/mark-rosetta-484071267"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Airbnb",
+        "founded": "2008",
+        "teamSize": 6132,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Brian Chesky, CEO",
+            "linkedIn": "https://www.linkedin.com/in/brianchesky/"
+          },
+          {
+            "name": "Nathan Blecharczyk, CTO",
+            "linkedIn": "https://www.linkedin.com/in/blecharczyk/"
+          },
+          {
+            "name": "Joe Gebbia, CPO",
+            "linkedIn": "https://www.linkedin.com/in/jgebbia/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Airbnb CEO Brian Chesky on taking it back to basics: ‘I can’t make products just for 41-year-old tech founders’ - The Verge",
+            "link": "https://www.theverge.com/2023/5/9/23716903/airbnb-ceo-brian-chesky-rooms-ai-travel-future-of-work-summer-2023"
+          },
+          {
+            "title": "Airbnb launches Airbnb Rooms listing category for budget travel",
+            "link": "https://www.usatoday.com/story/travel/news/2023/05/03/airbnb-rooms-listing-category-budget-travel/70178696007/"
+          },
+          {
+            "title": "Brian Chesky Isn't Running Airbnb--He's 'Designing' It",
+            "link": "https://www.inc.com/magazine/202303/christine-lagorio-chafkin/brian-chesky-isnt-running-airbnb-hes-designing-it.html"
+          },
+          {
+            "title": "Airbnb’s cofounder just donated $25M to get plastic out of the ocean",
+            "link": "https://fortune.com/2023/02/02/airbnb-joe-gebbia-donation-25-million-ocean-cleanup-great-pacific-garbage-patch"
+          },
+          {
+            "title": "'Hocus Pocus' fans can now stay in the Sanderson Sisters' cottage : NPR",
+            "link": "https://www.npr.org/2022/10/04/1126605757/hocus-pocus-cottage-airbnb"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Heroku",
+        "founded": "2007",
+        "teamSize": 300,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Orion Henry",
+            "linkedIn": ""
+          },
+          {
+            "name": "James Lindenbaum",
+            "linkedIn": "https://www.linkedin.com/in/jameslindenbaum"
+          },
+          {
+            "name": "Adam Wiggins",
+            "linkedIn": ""
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Salesforce.com Buys Heroku For $212 Million In Cash • TechCrunch",
+            "link": "https://techcrunch.com/2010/12/08/breaking-salesforce-buys-heroku-for-212-million-in-cash/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "280 North",
+        "founded": "",
+        "teamSize": 11,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Ross Boucher",
+            "linkedIn": "https://www.linkedin.com/in/jason-konrad"
+          },
+          {
+            "name": "Tom Robinson",
+            "linkedIn": ""
+          },
+          {
+            "name": "Francisco Tolmasky",
+            "linkedIn": "https://www.linkedin.com/in/tolmasky"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Insoshi",
+        "founded": "",
+        "teamSize": 0,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Michael Hartl",
+            "linkedIn": "https://www.linkedin.com/in/michaeldhartl/"
+          },
+          {
+            "name": "Long Nguyen",
+            "linkedIn": "https://www.linkedin.com/in/long-nguyen-3257b3b/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Kalshi",
+        "founded": "2019",
+        "teamSize": 50,
+        "Location": "New York",
+        "founders": [
+          {
+            "name": "Luana Lopes Lara",
+            "linkedIn": "https://www.linkedin.com/in/luana-lopes-lara-3151068a"
+          },
+          {
+            "name": "Tarek Mansour",
+            "linkedIn": "https://www.linkedin.com/in/mansourtarek/"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Quantitative Researcher (Market Making)",
+            "locations": [
+              "New York, New York, United States"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": ""
+          },
+          {
+            "role": "Product Designer",
+            "locations": [
+              "Remote"
+            ],
+            "compensation": "$100K - $200K",
+            "equity": "",
+            "experience": "3+ years"
+          },
+          {
+            "role": "Market Surveillance Lead",
+            "locations": [
+              "New York or Remote",
+              "Remote (US)"
+            ],
+            "compensation": "$100K - $160K",
+            "equity": "",
+            "experience": "3+ years"
+          },
+          {
+            "role": "Social Media Manager",
+            "locations": [
+              "New York or Remote",
+              "Remote (US)"
+            ],
+            "compensation": "$70K - $150K",
+            "equity": "",
+            "experience": "Any (new grads ok)"
+          },
+          {
+            "role": "Market Structure",
+            "locations": [
+              "New York, NY, US"
+            ],
+            "compensation": "$100K - $200K",
+            "equity": "",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "A New Prediction Market Lets Investors Bet Big on Almost Anything",
+            "link": "https://www.bloomberg.com/news/features/2022-05-26/kalshi-s-stock-market-of-the-world-let-s-you-bet-on-anything?sref=75bHIbat"
+          },
+          {
+            "title": "How to trade everything: Kalshi CEO on what the event markets are saying about inflation, GDP & Olivia Rodrigo",
+            "link": "https://www.cnbc.com/video/2021/12/14/how-to-trade-everything-kalshi-ceo-on-what-the-event-markets-are-saying-about-inflation-gdp-olivia-rodrigo.html"
+          },
+          {
+            "title": "From Lil Nas X’s latest album to climate change, Kalshi wants to let investors bet on it all | Fortune",
+            "link": "https://fortune.com/2021/09/23/kalshi-bet-investors-lil-nas-x-climate-change/"
+          },
+          {
+            "title": "From Fintech’s Top Founders To Wall Street’s Best Dealmakers: 30 Under 30 Finance 2022",
+            "link": "https://www.forbes.com/sites/jeffkauflin/2021/12/01/from-fintechs-crypto-top-founders-to-wall-streets-best-dealmakers-30-under-30-finance-2022/?sh=5744da99249b"
+          },
+          {
+            "title": "This Sequoia- and Henry Kravis-backed prediction market wants to turn opinions into money – TechCrunch",
+            "link": "https://techcrunch.com/2021/08/30/this-sequoia-and-henry-kravis-backed-prediction-market-wants-to-turn-opinions-into-money/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Eclipse Foods",
+        "founded": "2019",
+        "teamSize": null,
+        "Location": "Oakland, CA",
+        "founders": [
+          {
+            "name": "Aylon Steinhart",
+            "linkedIn": "https://www.linkedin.com/in/aylonsteinhart/"
+          },
+          {
+            "name": "Thomas Elliott Bowman",
+            "linkedIn": "https://www.linkedin.com/in/thomas-bowman-b2a2a9195"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Eclipse Foods isn’t out to substitute dairy — it’s on a mission to replace it – TechCrunch",
+            "link": "https://techcrunch.com/2022/06/28/eclipse-foods-isnt-out-to-substitute-dairy-its-on-a-mission-to-replace-it/"
+          },
+          {
+            "title": "Eclipse Foods inks deal with Whole Foods for its plant-based ice cream – TechCrunch",
+            "link": "https://techcrunch.com/2021/11/22/eclipse-foods-inks-deal-with-whole-foods-plant-based-ice-creame/"
+          },
+          {
+            "title": "Purpose At Work: Is One Small Company Trying To ‘Eclipse’ The Brightest Stars In The Dairy Industry?",
+            "link": "https://www.forbes.com/sites/simonmainwaring/2021/07/29/purpose-at-work-is-one-small-company-trying-to-eclipse-the-brightest-stars-in-the-dairy-industry/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Modern Fertility",
+        "founded": "2017",
+        "teamSize": 25,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Afton Vechery",
+            "linkedIn": "https://www.linkedin.com/in/aftonv/"
+          },
+          {
+            "name": "Carly Leahy",
+            "linkedIn": "https://www.linkedin.com/in/carlyleahy"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Health Care Start-Up Ro to Acquire Modern Fertility - The New York Times",
+            "link": "https://www.nytimes.com/2021/05/19/business/modern-fertility-ro-roman.html"
+          },
+          {
+            "title": "Modern Fertility's mail-order test, app platform collects $15M | MobiHealthNews",
+            "link": "https://www.mobihealthnews.com/content/north-america/modern-fertilitys-mail-order-test-app-platform-collects-15m"
+          },
+          {
+            "title": "Meet Modern Fertility, the At-Home Test That Is Changing the Conversation Around Women’s Health | Vogue",
+            "link": "https://www.vogue.com/article/fertility-test-at-home-modern-fertility-women-reproductive-health-child-birth-infertility"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Long Term Stock Exchange",
+        "founded": "2012",
+        "teamSize": 68,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Eric Ries",
+            "linkedIn": "https://www.linkedin.com/in/eries"
+          },
+          {
+            "name": "John Bautista",
+            "linkedIn": "https://www.linkedin.com/in/john-bautista-a010912"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Materee",
+        "founded": "2022",
+        "teamSize": 20,
+        "Location": "Jakarta, Indonesia",
+        "founders": [
+          {
+            "name": "Hansel Hansel",
+            "linkedIn": "https://www.linkedin.com/in/hansel-hansel-05247554"
+          },
+          {
+            "name": "Steven Walentino",
+            "linkedIn": "http://www.linkedin.com/in/steven-walentino"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Second",
+        "founded": "2023",
+        "teamSize": 2,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Eric Rowell",
+            "linkedIn": "https://www.linkedin.com/in/errowell/"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Founding AI Agent Engineer",
+            "locations": [
+              "San Francisco, CA, US"
+            ],
+            "compensation": "$170K - $200K",
+            "equity": "1.50% - 3.00%",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "highlight.io",
+        "founded": "2023",
+        "teamSize": 8,
+        "Location": "Irvine, CA",
+        "founders": [
+          {
+            "name": "Jay Khatri",
+            "linkedIn": "https://linkedin.com/in/jay-khatri"
+          },
+          {
+            "name": "Vadim Korolik",
+            "linkedIn": "https://www.linkedin.com/in/vkorolik/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Highlight launches full-stack application monitoring platform, raises $8M | VentureBeat",
+            "link": "https://venturebeat.com/programming-development/highlight-launches-full-stack-application-monitoring-platform-raises-8m/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Unstatiq",
+        "founded": "2022",
+        "teamSize": 2,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Sachin Jaishankar",
+            "linkedIn": "https://www.linkedin.com/in/sachinjaishankar"
+          },
+          {
+            "name": "Nish Singaraju",
+            "linkedIn": "https://www.linkedin.com/in/nish-singaraju-9472ba175/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Lively, Inc.",
+        "founded": "2016",
+        "teamSize": 195,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Alex Cyriac",
+            "linkedIn": "https://www.linkedin.com/in/alex-cyriac-1218137"
+          },
+          {
+            "name": "Shobin Uralil",
+            "linkedIn": "https://www.linkedin.com/shobinuralil"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Lively is building the modern health savings account that puts consumers first – TechCrunch",
+            "link": "https://techcrunch.com/2021/10/13/lively-is-building-the-modern-health-savings-account-that-puts-consumers-first/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Monzo Bank",
+        "founded": "2015",
+        "teamSize": 2450,
+        "Location": "London, United Kingdom",
+        "founders": [
+          {
+            "name": "Jonas Templestein, CTO",
+            "linkedIn": ""
+          },
+          {
+            "name": "Tom Blomfield",
+            "linkedIn": "https://www.linkedin.com/in/tomblomfield"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Monzo, the UK challenger bank with 9 million customers, raises $430 million | TechCrunch",
+            "link": "https://techcrunch.com/2024/03/05/monzo-the-uk-challenger-bank-with-9-million-customers-raises-430-million/"
+          },
+          {
+            "title": "British digital bank Monzo hits profitability for first time",
+            "link": "https://www.cnbc.com/2023/05/31/british-digital-bank-monzo-hits-profitability-for-first-time.html"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Stripe",
+        "founded": "2009",
+        "teamSize": 7000,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Patrick Collison",
+            "linkedIn": ""
+          },
+          {
+            "name": "John Collison",
+            "linkedIn": ""
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Frontend Engineer, Identity",
+            "locations": [
+              "United States",
+              "Remote"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Machine Learning Engineer, Identity",
+            "locations": [
+              "San Francisco ",
+              "Remote"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Head of Engineering, Identity Graph",
+            "locations": [
+              "San Francisco ",
+              "Remote"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "11+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Stripe: 2023 CNBC Disruptor 50",
+            "link": "https://www.cnbc.com/2023/05/09/stripe-disruptor-50.html"
+          },
+          {
+            "title": "Stripe tackles ‘cold start problem’ with the launch of fiat-to-crypto on-ramp",
+            "link": "https://cointelegraph.com/news/stripe-tackles-cold-start-problem-with-the-launch-of-fiat-to-crypto-onramp"
+          },
+          {
+            "title": "Payments giant Stripe raises $6.5 billion at a $50 billion valuation",
+            "link": "https://www.axios.com/2023/03/15/stripe-50-billion"
+          },
+          {
+            "title": "Amazon-Stripe partnership accelerates ecommerce and streamlines online payments",
+            "link": "https://stripe.com/newsroom/news/amazon-and-stripe"
+          },
+          {
+            "title": "The Collison Brothers Built Stripe Into A $95 Billion Unicorn With Eye-Popping Financials. Inside Their Plan To Stay On Top",
+            "link": "https://www.forbes.com/sites/alexkonrad/2022/05/26/stripe-exclusive-interview-collison-brothers-95-billion-plan-to-stay-on-top/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "New Story",
+        "founded": "2014",
+        "teamSize": 35,
+        "Location": "Atlanta, GA",
+        "founders": [
+          {
+            "name": "Brett Hagler, CEO",
+            "linkedIn": "http://www.linkedin.com/in/rbhagler/"
+          },
+          {
+            "name": "Matthew Marshall",
+            "linkedIn": "http://linkedin.com/in/jamesmatthewmarshall"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "How an 11-Foot-Tall 3-D Printer Is Helping to Create a Community - The New York Times",
+            "link": "https://www.nytimes.com/2021/09/28/business/3D-printing-homes.html"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "WalletKit",
+        "founded": "2023",
+        "teamSize": 2,
+        "Location": "New York",
+        "founders": [
+          {
+            "name": "Tushar Soni",
+            "linkedIn": "https://linkedin.com/in/tusharsoni"
+          },
+          {
+            "name": "Qinyu Tong",
+            "linkedIn": "https://linkedin.com/in/tongqinyu"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Cadence",
+        "founded": "2022",
+        "teamSize": 2,
+        "Location": "New York",
+        "founders": [
+          {
+            "name": "Neo Cho",
+            "linkedIn": "https://www.linkedin.com/in/neocho/"
+          },
+          {
+            "name": "Alex Reyes",
+            "linkedIn": "https://www.linkedin.com/in/alexreyes-tech/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "SolStar",
+        "founded": "2021",
+        "teamSize": 2,
+        "Location": "Monterey, CA",
+        "founders": [
+          {
+            "name": "Ryan Endacott",
+            "linkedIn": "https://www.linkedin.com/in/ryan-endacott-26786255/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Hiro Systems",
+        "founded": "2013",
+        "teamSize": 40,
+        "Location": "New York",
+        "founders": [
+          {
+            "name": "Muneeb Ali",
+            "linkedIn": ""
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Blockchain Engineer",
+            "locations": [
+              "US",
+              "CA",
+              "ES",
+              "PT",
+              "NL",
+              "RO",
+              "Remote (US; CA; ES; PT; NL; RO)"
+            ],
+            "compensation": "$160K - $200K",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Sr. DevOps Engineer",
+            "locations": [
+              "US",
+              "CA",
+              "PT",
+              "ES",
+              "RO",
+              "NL",
+              "Remote (US; CA; PT; ES; RO; NL)"
+            ],
+            "compensation": "$175K - $195K",
+            "equity": "",
+            "experience": "6+ years"
+          }
+        ],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Democracy Earth",
+        "founded": "2015",
+        "teamSize": 2,
+        "Location": "Madrid, Spain",
+        "founders": [
+          {
+            "name": "Pia Mancini",
+            "linkedIn": "https://www.linkedin.com/in/piamancini"
+          },
+          {
+            "name": "Santiago Siri",
+            "linkedIn": "http://ar.linkedin.com/in/santisiri"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Heysan",
+        "founded": "2007",
+        "teamSize": 0,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Gustaf Alstromer",
+            "linkedIn": "https://www.linkedin.com/in/gustafalstromer/"
+          },
+          {
+            "name": "Pär Lindhe",
+            "linkedIn": "https://www.linkedin.com/in/parlindhe"
+          },
+          {
+            "name": "Marie Brattberg",
+            "linkedIn": "https://www.linkedin.com/in/mariebrattberg/"
+          },
+          {
+            "name": "Michael Ossareh",
+            "linkedIn": "https://www.linkedin.com/in/ossareh/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Happyrobot",
+        "founded": "2022",
+        "teamSize": 3,
+        "Location": "",
+        "founders": [
+          {
+            "name": "Pablo Palafox",
+            "linkedIn": "https://linkedin.com/in/pablorpalafox"
+          },
+          {
+            "name": "Luis Paarup",
+            "linkedIn": "https://linkedin.com/in/luispaarup"
+          },
+          {
+            "name": "Javier Palafox",
+            "linkedIn": "https://linkedin.com/in/javierpalafox"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Founding Engineer - Backend",
+            "locations": [
+              "San Francisco, CA, US"
+            ],
+            "compensation": "$80K - $160K",
+            "equity": "0.50% - 2.00%",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Happyrobot, el proyecto español seleccionado por Y Combinator: así lo han conseguido | Business Insider España",
+            "link": "https://www.businessinsider.es/happyrobot-proyecto-espanol-seleccionado-combinator-han-conseguido-1281228"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Raz",
+        "founded": "2023",
+        "teamSize": 2,
+        "Location": "New York",
+        "founders": [
+          {
+            "name": "Rob Haber",
+            "linkedIn": "https://linkedin.com/in/rob-haber"
+          },
+          {
+            "name": "Alex Luis",
+            "linkedIn": "https://linkedin.com/in/alex-luis"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Khoj",
+        "founded": "2023",
+        "teamSize": 2,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Debanjum Singh Solanky",
+            "linkedIn": "https://linkedin.com/in/debanjum"
+          },
+          {
+            "name": "Saba Imran",
+            "linkedIn": "https://linkedin.com/in/sabaimran"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Show HN: Khoj - Chat Offline with your Second Brain using Llama 2 | Hacker News",
+            "link": "https://news.ycombinator.com/item?id=36933452"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Zepto",
+        "founded": "2020",
+        "teamSize": 1300,
+        "Location": "Mumbai, India",
+        "founders": [
+          {
+            "name": "Aadit Palicha",
+            "linkedIn": "https://www.linkedin.com/in/aadit-palicha/"
+          },
+          {
+            "name": "Kaivalya Vohra",
+            "linkedIn": "https://www.linkedin.com/in/kaivalya-vohra/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "Zepto becomes India's first 2023 unicorn with $200 million fresh funding | TechCrunch",
+            "link": "https://techcrunch.com/2023/08/25/zepto-becomes-india-first-2023-unicorn-with-200-million-fresh-funding/"
+          },
+          {
+            "title": "Quick commerce will grow 10 times in metros in 1-2 years: Zepto's Vohra",
+            "link": "https://www.fortuneindia.com/enterprise/quick-commerce-will-grow-10-times-in-metros-in-1-2-years-zeptos-vohra/110725"
+          },
+          {
+            "title": "They Raised $360 Million After Dropping Out Of Stanford And Built A Grocery Delivery App Now Worth $900 Million",
+            "link": "https://www.forbes.com/sites/stevenli1/2022/10/10/they-raised-360-million-after-dropping-out-of-stanford-and-built-a-grocery-delivery-app-now-worth-900-million/"
+          },
+          {
+            "title": "The Zepto Boys: Competition that Amazon never saw coming | Business Insider India",
+            "link": "https://www.businessinsider.in/business/startups/the-zepto-boys-competition-that-amazon-never-saw-coming/articleshow/94399979.cms"
+          },
+          {
+            "title": "Stanford dropouts' startup worth millions, could be India tech unicorn ",
+            "link": "https://www.cnbc.com/2022/08/02/stanford-dropouts-startup-worth-millions-could-be-india-tech-unicorn-.html"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "ClassDojo",
+        "founded": "2011",
+        "teamSize": 100,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Sam Chaudhary",
+            "linkedIn": "https://www.linkedin.com/in/samchaudhary/"
+          },
+          {
+            "name": "Liam Don",
+            "linkedIn": "https://www.linkedin.com/in/liamdon/"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "0→1 Product Leader",
+            "locations": [
+              "San Francisco",
+              "Remote"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "6+ years"
+          },
+          {
+            "role": "Sr. Fullstack Engineer",
+            "locations": [
+              "San Francisco, CA, US",
+              "Remote"
+            ],
+            "compensation": "$180K - $250K",
+            "equity": "",
+            "experience": "6+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "ClassDojo Won Over Classrooms. Now It’s On A $125 Million Mission To Bring Kids To The Metaverse",
+            "link": "https://www.forbes.com/sites/alexkonrad/2022/07/21/classdojo-tencent-backed-unicorn-launches-education-virtual-world/?sh=523b7d7713ad"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "MagicBell",
+        "founded": "2020",
+        "teamSize": 4,
+        "Location": "Barcelona, Spain",
+        "founders": [
+          {
+            "name": "Hana Mohan",
+            "linkedIn": "https://www.linkedin.com/in/unamashana/"
+          },
+          {
+            "name": "Josue Montano",
+            "linkedIn": "https://www.linkedin.com/in/josuemontanoa/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": []
+      }
+    },
+    {
+      "company": {
+        "name": "Sown To Grow",
+        "founded": "2015",
+        "teamSize": 16,
+        "Location": "Oakland, CA",
+        "founders": [
+          {
+            "name": "Rupa Gupta",
+            "linkedIn": "https://www.linkedin.com/pub/rupa-chandra-gupta/39/890/60b"
+          },
+          {
+            "name": "Dennis Li",
+            "linkedIn": "https://www.linkedin.com/in/dennisli/"
+          }
+        ],
+        "jobs": [],
+        "latestNews": [
+          {
+            "title": "\n    \"Sown To Grow\" emoji and message program helps Newton students open up - CBS Boston",
+            "link": "https://www.cbsnews.com/boston/news/sown-to-grow-emoji-message-program-newton-massachusetts-schools/"
+          }
+        ]
+      }
+    },
+    {
+      "company": {
+        "name": "Tempo",
+        "founded": "2014",
+        "teamSize": 158,
+        "Location": "San Francisco",
+        "founders": [
+          {
+            "name": "Moawia Eldeeb",
+            "linkedIn": "https://www.linkedin.com/in/moawiaeldeeb"
+          },
+          {
+            "name": "Joshua Augustin",
+            "linkedIn": "https://www.linkedin.com/in/joshua-augustin-56ba268a"
+          }
+        ],
+        "jobs": [
+          {
+            "role": "Sr Computer Vision Engineer",
+            "locations": [
+              "San Francisco, CA"
+            ],
+            "compensation": "$180K - $225K",
+            "equity": "0.05% - 0.11%",
+            "experience": "Any (new grads ok)"
+          },
+          {
+            "role": "Machine Learning Engineer",
+            "locations": [
+              "San Francisco, CA"
+            ],
+            "compensation": "$100K - $200K",
+            "equity": "0.10% - 1.00%",
+            "experience": "1+ years"
+          },
+          {
+            "role": "Senior Front End Engineer",
+            "locations": [
+              "San Francisco, CA"
+            ],
+            "compensation": "",
+            "equity": "",
+            "experience": "3+ years"
+          }
+        ],
+        "latestNews": [
+          {
+            "title": "Tempo launches a $395 home fitness system the size of a minifridge – TechCrunch",
+            "link": "https://techcrunch.com/2021/11/02/tempo-launches-a-400-home-fitness-system-the-size-of-a-minifridge/"
+          },
+          {
+            "title": "Tempo Move Is an Actually Affordable Smart Home Gym",
+            "link": "https://gizmodo.com/tempos-new-smart-home-gym-is-actually-affordable-1847962563"
+          },
+          {
+            "title": "Home gym startup Tempo raises $220M to meet surge in demand for its workout device • TechCrunch",
+            "link": "https://techcrunch.com/2021/04/13/home-gym-startup-tempo-raises-220m-to-meet-surge-in-demand-for-its-workout-device/"
+          }
+        ]
+      }
+    }
+  ],
+  "limit": 999999999999,
+  "offset": 0,
+  "total": 50
+}
